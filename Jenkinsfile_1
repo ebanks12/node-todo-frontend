@@ -1,5 +1,5 @@
 //Jenkins file only to tutorial example
-//Adding a comment to trigger build
+//Adding a comment
 pipeline {
   agent any
     
